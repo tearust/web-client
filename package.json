@@ -33,7 +33,7 @@
     "jsoneditor": "^9.0.4",
     "lodash": "^4.17.15",
     "nkn-sdk": "1.1.6",
-    "node-forge": "0.9.1",
+    "node-forge": "0.10.0",
     "protobufjs": "^6.9.0",
     "pubsub-js": "^1.9.0",
     "to-hex": "0.0.15",
